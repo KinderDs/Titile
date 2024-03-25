@@ -1,5 +1,5 @@
 
-<summary><b>💻 &nbsp;&nbsp;Технологии:&nbsp;</b></summary>
+  <summary><b>💻 &nbsp;&nbsp;Технологии:&nbsp;</b></summary>
   <br/> 
 <div>
 <p align="left">
